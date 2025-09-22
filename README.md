@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ian Garvey</h1>
 <h3 align="center">A passionate full stack developer from Atlanta, Ga</h3>
 
-- 🔭 I’m currently working on [a dynamic chatbox feature](https://github.com/rough0peace/simple-profile-page-and-chatbox-template)
+- 🔭 I’m currently working on [an AI-powered customer support analytics platform](https://github.com/iangarvey/HelpHub-AI-Powered-Customer-Support-Analytics-Platform)
 
-- 🌱 I’m currently learning **Typescript, Angular, Ruby, Everything!**
+- 🌱 I’m currently learning **Typescript, Prisma, and PostgreSQL**
 
 - 👯 I’m looking to collaborate on [a liquid democracy application](https://github.com/rough0peace/liquid-democracy-app)
 
