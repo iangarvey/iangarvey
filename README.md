@@ -2,9 +2,7 @@
 <h3 align="center">A passionate full stack developer from Atlanta, Ga</h3>
 
 - 🔭 Here are the projects I'm working on: 
-
-1. [an AI-powered customer support analytics platform](https://github.com/iangarvey/HelpHub-AI-Powered-Customer-Support-Analytics-Platform)
-2. [a dynamic E-Commerce Website using the Fake Store API](https://github.com/iangarvey/E-Commerce-Website)
+ [a dynamic E-Commerce Website using the Fake Store API](https://github.com/iangarvey/E-Commerce-Website)
 
 - 🌱 I’m currently learning **Typescript**
 
