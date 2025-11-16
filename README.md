@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ian Garvey</h1>
 <h3 align="center">A passionate full stack developer from Atlanta, Ga</h3>
 
-- 🔭 Here are the projects I'm working on: 
+- 🔭 Here's what I'm working on: 
  [a dynamic E-Commerce Website using the Fake Store API](https://github.com/iangarvey/E-Commerce-Website)
 
 - 🌱 I’m currently learning **Typescript**
