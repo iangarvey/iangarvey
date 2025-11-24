@@ -4,7 +4,7 @@
 - 🔭 Here's what I'm working on: 
  [a dynamic E-Commerce Website using the Fake Store API](https://github.com/iangarvey/E-Commerce-Website)
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning about **Retrieval-Augmented Generation**
 
 - 👯 I’m looking to collaborate on [a liquid democracy application](https://github.com/rough0peace/liquid-democracy-app)
 
