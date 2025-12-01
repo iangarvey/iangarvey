@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full stack developer from Atlanta, Ga</h3>
 
 - 🔭 Here's what I'm working on: 
- [a dynamic E-Commerce Website using the Fake Store API](https://github.com/iangarvey/E-Commerce-Website)
+ [an AI social media tool using Ollama and RAG to pull from a small business owner's website and post once a day](https://github.com/iangarvey/Social-Media-Local-AI-Tool)
 
 - 🌱 I’m currently learning about **Retrieval-Augmented Generation**
 
