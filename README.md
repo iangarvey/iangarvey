@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ian Garvey</h1>
 <h3 align="center">A passionate full stack developer from Atlanta, Ga</h3>
 
-- 🔭 Here's what I'm working on: 
- [an AI social media tool using Ollama to run an AI locally and RAG to pull from a small business owner's website and post once a day](https://github.com/iangarvey/Social-Media-Local-AI-Tool)
+- 🔭 Right now, I'm mostly working on a private project. Follow me on [LinkedIn](https://www.linkedin.com/in/ian-garvey/) for updates! 
 
 - 🌱 I’m currently learning about **Retrieval-Augmented Generation**
 
