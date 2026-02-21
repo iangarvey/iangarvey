@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **React**
 
-- 📫 How to reach me **iangarvey@tutanota.com**
+- 📫 How to reach me **ianarthurgarvey@gmail.com**
 
 - ⚡ Fun fact **I like to play guitar and kayak!**
 
